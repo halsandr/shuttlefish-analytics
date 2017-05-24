@@ -1,0 +1,14 @@
+# Uneeded compiled files
+*.py[cod]
+
+# Private files containing secrets
+analytics_config.py
+client_secrets.json
+facebook_api_token.txt
+setup.py
+
+#Uneeded folder from compiling
+dist/
+
+# Temp files
+*~
